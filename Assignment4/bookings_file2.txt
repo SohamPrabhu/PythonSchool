@@ -1,0 +1,3 @@
+CS 112 Lab:9:15:AM:10:45:AM:2:3:
+MECH Class:11:0:AM:12:0:PM:2:3:
+STAT Swimmers:7:0:AM:4:45:PM:1:
